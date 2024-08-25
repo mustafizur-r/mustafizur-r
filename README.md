@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile!
-
 # Hi there, I'm Md Mustafizur Rahman 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MustafizurRU&color=brightgreen)
