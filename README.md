@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MustafizurRU&color=brightgreen)
 
-I'm a Master's student at the Nara Institute of Science and Technology, Japan, with a background in Information and Communication Engineering. My work focuses on leveraging AI, AR, and VR technologies to enhance physical therapy, medical training, and rehabilitation. I have a passion for developing innovative solutions that combine software engineering, computer vision, and interactive media design.
+I'm a Master's student at the Nara Institute of Science and Technology, Japan, with a background in Information Science. My work focuses on leveraging AI, AR, and VR technologies to enhance physical therapy, medical training, and rehabilitation. I have a passion for developing innovative solutions that combine software engineering, computer vision, and interactive media design.
 
 ### 🔧 Technologies & Tools
 
