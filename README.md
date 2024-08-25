@@ -13,10 +13,10 @@ I'm a Master's student at the Nara Institute of Science and Technology, Japan, w
 
 ### 🛠 Current Projects
 
-- **AR-Based Simulator for Physical Therapy**  
+- **EXPERIENCE AUGMENTATION IN PHYSICAL THERAPY BY SIMULATING PATIENT-SPECIFIC WALKING MOTIONS**  
   *Leveraging generative AI to develop real-time, patient-specific 3D walking simulations for enhancing physical therapy training.*
   
-- **Motor Rehabilitation Support with AR**  
+- **AUGMENTED REALITY AS A SUPPORT TOOL FOR MOTOR REHABILITATION**  
   *Using AR as a tool to assist therapists in motor rehabilitation.*
 
 ### 📚 Publications
