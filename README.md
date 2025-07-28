@@ -35,7 +35,7 @@ I'm a Master's student at the Nara Institute of Science and Technology (NAIST), 
   *APMAR 2024*
 
 - De Cecco, M., Luchetti, A., Bonetto, M., **Rahman, M. M.**, Shigeto, R., Butaslac, I.  
-  _"Robotic Collaborative Walker with Impedance Control and Augmented Reality for Assisted Walking."_  
+  _"Robotic collaborative walker with impedance control and augmented reality for assisted walking and user empowerment."_  
   *IEEE MetroXRAINE 2025 (Accepted)*
 
 - **Rahman, M. M.**, Ishmam, M. F., Hossain, M. T., Haque, M. E.  
