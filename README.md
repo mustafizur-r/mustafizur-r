@@ -20,7 +20,7 @@ I'm a Master's student at the Nara Institute of Science and Technology (NAIST), 
 
 - **Experience Augmentation in Physical Therapy (2024–)**  
   *A text-to-motion system for simulating patient-specific impaired gait using HumanML3D, VAEs, and generative AI techniques.*  
-  🔗 [Published at APMAR 2024](https://sigmr.vrsj.org/apmar2024/program.html#session5)
+  🔗 [Published at APMAR 2024](https://ceur-ws.org/Vol-3907/paper12.pdf)
 
 - **Robotic Collaborative Walker with AR (2025)**  
   *AR-guided robotic walker integrated with MQTT and Photon Fusion on Meta Quest 3 for therapist–patient co-training.*  
