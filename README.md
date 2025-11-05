@@ -2,83 +2,115 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MustafizurRU&color=brightgreen)
 
-I'm a Master's student at the Nara Institute of Science and Technology (NAIST), Japan, pursuing research in Mixed Reality (MR), Artificial Intelligence (AI), and Rehabilitation Technology. I focus on designing immersive systems using AR/VR for enhancing physical therapy, patient-specific gait simulation, and robotic interaction. My work combines computer vision, interactive media, and real-time system integration.
+**PhD Candidate | Human–Computer Interaction | XR & AI Researcher | MEXT Scholar**  
+Nara Institute of Science and Technology (NAIST), Japan  
+Division of Information Science | Interactive Media Design Laboratory  
+
+📍 Nara, Japan  
+📧 mustafizur.cd@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/md-mustafizur-rahman-963800147/) | [GitHub](https://github.com/mustafizur-r) | [Portfolio](https://mustafizur-r.github.io) | [Google Scholar](https://scholar.google.com/citations?user=Oz9_9Z8AAAAJ&hl=en)
+
+---
+## Research Interests
+Mixed Reality (AR/VR/MR) • Human–Computer Interaction (HCI) • Embodied AI •  
+AI-Driven Rehabilitation • Generative Motion Models • LLM-Based AR Assistance •  
+Real-Time Systems & Interactive Intelligence
+---
+
+## Current Research
+
+### Actionable AR-LLM System with User-Adaptive Guidance for Context-Aware Tasks *(Ongoing)*
+**Advisor:** Prof. Hirokazu Kato  
+**Tech:** Python | Unity (C#) | OpenXR | FastAPI | GPT-based LLMs | RAG | Pose Tracking | HMD  
+
+- Developing an AR system powered by LLMs and retrieval-augmented reasoning for context-aware procedural task guidance  
+- Observes user actions in real environments and generates expertise-adaptive instructions with explainability and corrective feedback  
+- Applications include scientific workflows, medical device setup, and mechanical assembly
+
+### AI-Generated Patient-Specific Impaired Gait Simulation *(Ongoing)*
+**Advisors:** Prof. Goshiro Yamamoto, Prof. Hirokazu Kato  
+**Tech:** Python (PyTorch) | Unity | Blender Python API | FastAPI | RVQ-VAE | Transformer Models | TriLib | KeeMapRig | HMD  
+
+- Text-to-motion system generating clinically meaningful impaired gait animations from structured clinical descriptions  
+- Retrained MoMask on a curated walking-focused dataset and therapist-guided simulation recordings  
+- Full pipeline including motion generation, Blender-based retargeting, and real-time visualization in Unity
+
+### Robotic Collaborative Walker with AR *(Completed)*
+**Status:** Accepted at IEEE MetroXRAINE 2025  
+**Tech:** Unity | AR Interface | Robotic Control Integration  
+
+- Designed an AR-supported collaborative robotic walker for assisted gait and user empowerment  
+- Synchronized AR interface and robotic walker for therapist–patient co-located interaction
 
 ---
 
-### 🔧 Technologies & Tools
+## Projects
 
-- **Languages**: Python, Java, C#, C++, JavaScript, MATLAB, SQL, LaTeX
-- **Web Development**: HTML, CSS, PHP, Laravel, MySQL, REST API, FastAPI
-- **Frameworks & Tools**: Unity3D (AR/VR/MR), Blender Python API, Arduino, Git, Jira
-- **ML/DL**: TensorFlow, PyTorch, Scikit-learn, Keras
-- **Automation Testing**: Selenium, Appium, Cucumber, TestNG, JUnit, REST Assured, Postman, Apache JMeter
+**Real–Time Feedback for Upper limb Motor Rehabilitation Using AR**  
+Azure Kinect skeletal tracking and HoloLens-based feedback for therapist-guided rehabilitation  
 
----
+**Handwrite AI: Smart OCR for Handwritten Notes to Digital Text**  
+OCR pipeline converting handwritten notes into editable text using PyTorch and FastAPI  
 
-### 🛠 Current Research Projects
-
-- **Experience Augmentation in Physical Therapy (2024–)**  
-  *A text-to-motion system for simulating patient-specific impaired gait using HumanML3D, VAEs, and generative AI techniques.*  
-  🔗 [Published at APMAR 2024](https://ceur-ws.org/Vol-3907/paper12.pdf)
-
-- **Robotic Collaborative Walker with AR (2025)**  
-  *Robotic Collaborative Walker with Impedance Control and Augmented Reality for Assisted Walking and User Empowerment.*  
-  🔗 [Accepted at IEEE MetroXRAINE 2025](https://www.metroxraine.org/call-for-papers)
+**Signature Authentication System: Improving Accuracy with AI and Biometrics**  
+Biometric signature authentication using computer vision and ML pipelines
 
 ---
 
-### 📚 Selected Publications
-- De Cecco, M., Luchetti, A., Bonetto, M., **Rahman, M. M.**, Shigeto, R., Butaslac, I.  
-  _"Robotic collaborative walker with impedance control and augmented reality for assisted walking and user empowerment."_  
-  *IEEE MetroXRAINE 2025 (Accepted)*
-  
-- **Rahman, M. M.**, Yamamoto, G., Liu, C., Butaslac, I., Sawabe, T., Kato, H.  
-  _"Experience Augmentation in Physical Therapy by Simulating Patient-Specific Walking Motions."_  
-  *APMAR 2024*
+## Education
 
-- **Rahman, M. M.**, Ishmam, M. F., Hossain, M. T., Haque, M. E.  
-  _"Virtual Reality Based Medical Training Simulator and Robotic Operation System."_  
-  *ICRPSET 2022* [DOI](https://doi.org/10.1109/ICRPSET57982.2022.10188546)
+**PhD in Information Science (Expected Oct 2025 – )**  
+Nara Institute of Science and Technology (NAIST), Japan  
+
+**Master of Engineering, Information Science (2023 – 2025)**  
+Nara Institute of Science and Technology (NAIST), Japan  
+
+**B.Sc. in Information and Communication Engineering (2017 – 2020)**  
+University of Rajshahi, Bangladesh  
 
 ---
 
-### 🎓 Education
+## Peer-Reviewed Publications
 
-- 🎓 **Doctor of Engineering (Expected, Oct. 2025 – )**  
-  *Nara Institute of Science and Technology, Japan*  
-  _Thesis: Experience Augmentation in Physical Therapy
-by Simulating Patient-Specific Walking Motions.
+- **Robotic Collaborative Walker with Impedance Control and Augmented Reality for Assisted Walking and User Empowerment**  
+  IEEE MetroXRAINE 2025 *(Accepted & Presented)*
 
-- 🎓 **Master of Engineering in Information Science (2023–2025)**  
-  *NAIST, Japan*  
-  _Thesis: Smart Rehabilitation for Augmenting Therapists’ Skills: A
-Mixed Reality System for Simulating AI-Generated Patient-Specific Im-
-paired Walking Motions and an Assistive Robotic Walker.
+- **Experience Augmentation in Physical Therapy by Simulating Patient-Specific Walking Motions**  
+  APMAR 2024
 
-- 🎓 **B.Sc. in Information and Communication Engineering (2017–2020)**  
-  *University of Rajshahi, Bangladesh*
-   _Thesis: Virtual Reality Based Medical Training Simulator and Robotic Operation System.
+- **Virtual Reality Based Medical Training Simulator and Robotic Operation System**  
+  ICRPSET 2022  
+  DOI: 10.1109/ICRPSET57982.2022.10188546
 
 ---
 
-### 🏆 Awards & Achievements
-- 🇪🇺 **Erasmus+ ICM Fellowship**, University of Trento, Italy (2025)  
-- 🇯🇵 **Monbukagakusho (MEXT) Scholarship**, NAIST, Japan (2023–2025)  
-- 🥈 **1st Runner-Up**, IEEE RAS Hackathon, BUET Winter School (2019)  
-- 🥈 **1st Runner-Up**, LICT-JOB Fair Project Showcase (2019)  
-- 🏅 **Tech Genius Award**, TalentPro, Bangladesh (2023)
+## Awards & Achievements
+
+- Monbukagakusho (MEXT) PhD Scholarship (2025–2028), Japan  
+- Erasmus+ ICM Fellowship, University of Trento, Italy (2025)  
+- MEXT Scholarship (Master’s, 2023–2025)  
+- Tech Genius Award, TalentPro (2023)  
+- 1st Runner-Up, IEEE RAS BUET Winter School Hackathon (2019)  
+- 1st Runner-Up, LICT Robotics Showcase (2019)
 
 ---
 
-### 📫 Contact & Links
+## Technical Skills
 
-- 📧 Email: [mustafizur.cd@gmail.com](mailto:mustafizur.cd@gmail.com)  
-- 🔗 LinkedIn: [Md Mustafizur Rahman](https://www.linkedin.com/in/md-mustafizur-rahman-963800147/)  
-- 🧠 Google Scholar: [Link](https://scholar.google.com/citations?user=Oz9_9Z8AAAAJ&hl=en)  
-- 🌐 Portfolio: [https://mustafizur-r.github.io](https://mustafizur-r.github.io)  
-- 💻 GitHub: [MustafizurRU](https://github.com/mustafizur-r)
+**Core Areas:** XR (AR/VR/MR), HCI, Embodied AI, Generative AI, LLM Systems  
+**Programming:** Python, C#, C/C++, Java, Bash  
+**ML & DL:** PyTorch, TensorFlow, Transformers, RVQ-VAE, scikit-learn  
+**LLMs & GenAI:** RAG pipelines, LoRA/PEFT fine-tuning, inference optimization  
+**XR & 3D:** Unity (Quest/HoloLens), Blender Python API, Kinect, scene understanding  
+**Back-End:** FastAPI, REST, WebSockets, MQTT  
+**DevOps:** Docker, Git/GitFlow, Linux  
+**Web:** HTML, CSS, JavaScript, PHP/Laravel  
+**Databases:** PostgreSQL, MySQL  
+**Testing:** Selenium, Appium, JMeter, Postman, pytest/JUnit  
+**Research Methods:** SUS, Likert analysis, Wilcoxon/Mann-Whitney, t-test/ANOVA, thematic coding  
 
 ---
 
-Let's collaborate on solving real-world problems through immersive technology and intelligent systems!
+## Contact
+If you are interested in collaboration in XR, AI for rehabilitation, or AR-LLM interaction systems, feel free to connect.
+
