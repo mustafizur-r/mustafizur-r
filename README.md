@@ -8,7 +8,7 @@ Division of Information Science | Interactive Media Design Laboratory
 
 📍 Nara, Japan  
 📧 mustafizur.cd@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/md-mustafizur-rahman-963800147/) | [GitHub](https://github.com/mustafizur-r) | [Portfolio](https://mustafizur-r.github.io) | [Google Scholar](https://scholar.google.com/citations?user=Oz9_9Z8AAAAJ&hl=en)
+🔗 [LinkedIn](https://www.linkedin.com/in/md-mustafizur-rahman-963800147/) | [GitHub](https://github.com/mustafizur-r) | [Portfolio](https://mustafizur-r.github.io) | [Google Scholar](https://scholar.google.com/citations?user=YEVQ5b0AAAAJ&hl=en)
 
 ---
 ## Research Interests
