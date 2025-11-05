@@ -12,6 +12,7 @@ Division of Information Science | Interactive Media Design Laboratory
 
 ---
 ## Research Interests
+
 Mixed Reality (AR/VR/MR) • Human–Computer Interaction (HCI) • Embodied AI •  
 AI-Driven Rehabilitation • Generative Motion Models • LLM-Based AR Assistance •  
 Real-Time Systems & Interactive Intelligence
